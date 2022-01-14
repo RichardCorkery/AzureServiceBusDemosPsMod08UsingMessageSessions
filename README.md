@@ -1,4 +1,4 @@
-# azure-service-bus-demos-ps-mod8-using-message-sessions
+# AzureServiceBusDemosPsMod08UsingMessageSessions
 
 ## Demos of Azure Service Bus: Correlation and Message Sessions from Pluralsight Class Azure Service Bus in Dept Module 8
 
